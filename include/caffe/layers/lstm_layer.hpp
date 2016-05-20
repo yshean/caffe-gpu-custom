@@ -9,6 +9,8 @@
 #include "caffe/layer.hpp"
 #include "caffe/proto/caffe.pb.h"
 
+#include "caffe/layers/recurrent_layer.hpp"
+
 namespace caffe {
 
 /**
